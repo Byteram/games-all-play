@@ -1,2 +1,2 @@
-# games-all-play
+# Games All Play
 This directory is a library of all games known to man
